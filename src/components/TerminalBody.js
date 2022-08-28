@@ -33,6 +33,8 @@ const TerminalOutput = styled.p`
   margin-left: 2%;
   word-wrap: break-word;
   padding: 0.2%;
+  margin-bottom: 0.5%;
+  margin-top: 0.5%;
 
   ${(props) =>
     props.row &&
