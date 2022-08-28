@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e796549.css",
+    "main.js": "/static/js/main.ead9d159.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Cindys.png": "/static/media/Cindys.ab4d6ffa323e4a387f30.png",
+    "static/media/blue_background.jpg": "/static/media/blue_background.2979eff91102c798431f.jpg",
+    "static/media/ballotProgram.png": "/static/media/ballotProgram.6ed90e436dfd4907e1d8.png",
+    "index.html": "/index.html",
+    "main.2e796549.css.map": "/static/css/main.2e796549.css.map",
+    "main.ead9d159.js.map": "/static/js/main.ead9d159.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e796549.css",
+    "static/js/main.ead9d159.js"
+  ]
+}
